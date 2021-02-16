@@ -1,0 +1,18 @@
+valor : 2.3
+nombre : Jhony
+edad : 22
+Pais : EEuu
+estrellas : 5
+--------------------------------------------
+valor : 33.0
+nombre : Hyn
+edad : 26
+Pais : Suiza
+estrellas : 6
+--------------------------------------------
+valor : 15.5
+nombre : Juno
+edad : 28
+Pais : Brasil
+estrellas : 4
+--------------------------------------------
